@@ -35,3 +35,7 @@ Listen for the phrase “come curious, leave kinder.” Whisper it at the door (
 - `script.js` – small interactive touches (hero tagline rotation & smooth scrolling).
 
 Clone it, remix it, bring your church, your choir, your hacker collective, or just yourself. May your code compile, your faith be kind, and your cocktails stay luminous. Cheers and amen. 🥂🙏
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=henrygambles/TheBarAtTheEndOfTheAlgorithm&type=Date)](https://star-history.com/#henrygambles/TheBarAtTheEndOfTheAlgorithm&Date)
