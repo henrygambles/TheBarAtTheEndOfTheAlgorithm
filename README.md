@@ -38,4 +38,4 @@ Clone it, remix it, bring your church, your choir, your hacker collective, or ju
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=henrygambles/TheBarAtTheEndOfTheAlgorithm&type=Date)](https://star-history.com/#henrygambles/TheBarAtTheEndOfTheAlgorithm&Date)
+![Star history](.github/star-history.svg)
